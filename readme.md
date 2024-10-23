@@ -34,4 +34,4 @@ Security Improvement Program: Programa estructurado para evaluar y mejorar la se
 - Verificar que el dispositivo esté conectado a una red segura para evitar ataques MITM.
 - Para un entorno de producción, se recomienda deshabilitar el modo depuración y revisar los permisos antes del lanzamiento.
 ###Reporte de Vulnerabilidades
-El reporte detallado de las pruebas de vulnerabilidad realizadas se encuentra en el archivo vulnerability_report.pdf.
+El reporte detallado de las pruebas de vulnerabilidad realizadas junto a la propuesta de programa de mejora se encuentran en el archivo vulnerability_report.pdf.
