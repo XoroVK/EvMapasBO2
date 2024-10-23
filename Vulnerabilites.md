@@ -1,3 +1,4 @@
+En este documento se entregan todas las vulnerabilidades encontradas en la apk de EvMapas encontradas mediante escaneo estatico y dinamico en https://mobsf.live, junto a una descripcion y posible solucion.
 1. ACCESS_COARSE_LOCATION
 •	Descripción: Acceso a la ubicación aproximada del usuario.
 •	Severidad: Alta.
